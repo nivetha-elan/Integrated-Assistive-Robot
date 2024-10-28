@@ -1,0 +1,14 @@
+## Required Libraries for Arduino
+
+Ensure you have the following libraries installed in the Arduino IDE:
+
+1. **Servo.h** - For controlling servo motors.
+2. **Ultrasonic.h** - For ultrasonic distance sensors.
+3. **Motor.h** - (if custom, specify details or link to installation instructions).
+
+### Installation Steps
+1. Open the Arduino IDE.
+2. Go to **Sketch** > **Include Library** > **Manage Libraries**.
+3. Search for each library above and install it.
+
+For any additional setup, such as pin configurations or specific microcontroller board settings, refer to the project documentation.
